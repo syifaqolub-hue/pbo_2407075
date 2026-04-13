@@ -24,3 +24,4 @@ public class BangunDatar {
         return panjang * lebar;
     }
 }
+
