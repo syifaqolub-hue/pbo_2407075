@@ -2,8 +2,8 @@ package lat1.lat1ku.Polymorphism;
 
 class Persegi extends BangunDatar {
 
-    public Persegi(double sisi) {
-        super(sisi);
+    public Persegi(double varA) {
+        super(varA);
     }
 
     @Override
